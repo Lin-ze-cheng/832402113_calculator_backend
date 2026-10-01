@@ -1,0 +1,2 @@
+"""Calculator backend application package."""
+
