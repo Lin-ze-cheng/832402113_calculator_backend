@@ -4,6 +4,8 @@
 
 作者：832402113 林泽成
 
+GitHub 仓库：<https://github.com/Lin-ze-cheng/832402113_calculator_backend>
+
 ## 技术栈
 
 - Python
